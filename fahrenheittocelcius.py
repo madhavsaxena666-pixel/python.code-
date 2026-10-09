@@ -1,0 +1,3 @@
+a=float(input("ENTER THE TEMPRATURE IN FAHRENHEIT:\n"))
+x=(a-32)*5/9
+print("THE TEMPRATURE IN CELCIUS WILL BE:\n",x)
