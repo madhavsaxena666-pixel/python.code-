@@ -11,4 +11,4 @@ else:
         print("YOU HAVE TO PAY", y , "AS TOTAL BILL")
     else:
         print("YOU HAVE TO PAY", a , "AS TOTAL BILL")
-print("madhav")
+
